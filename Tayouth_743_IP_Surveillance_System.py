@@ -29,7 +29,7 @@ from email import encoders
     
 email_send = input("Enter Email Address: ")
 email_user = 'dwitpythonproject@gmail.com'
-email_password = 'dwit1234'
+email_password = ''
 
 subject = 'IP Address'
 msg = MIMEMultipart()
